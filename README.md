@@ -13,10 +13,3 @@ Examples of arithmetic expressions that this app can solve:
 
     ((20+14/((-7))+10*(15+(24-(-20)))-(3*(-5))/2+((-10)))+(20+14/-7)+10*(15+(24-(-20))-3*-5)/2+-10)/2
 
-### USING INSTRUCTIONS
-
-    open _'IntegerCalculator\bin\Debug\netcoreapp3.1\IntegerCalculator.exe'_ on CLI;
-
-    write arithmetic expression and press 'ENTER' to get result;
-
-    write exit and press ENTER to close the app.
